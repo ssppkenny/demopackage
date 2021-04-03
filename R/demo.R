@@ -1,8 +1,9 @@
-#' Provides a demo string
+#' Provides a demo_function string
 #'
-#' @return string "demo"
+#' @return string "demo_function"
 #' @examples
 #' demo()
-demo <- function() {
-  "demo"
+#' @export
+demo_function <- function() {
+  "demo_function"
 }
