@@ -3,6 +3,6 @@
 #' @return string "demo"
 #' @examples
 #' demo()
-demo() <- function() {
+demo <- function() {
   "demo"
 }
