@@ -1,0 +1,19 @@
+Package: demopackage
+Title: This Package Provides a Test Function
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sergey",
+           family = "Mikhmo",
+           role = c("aut", "cre"),
+           email = "sergey.mikhno@gmail.com",
+           comment = "Just a demo package")
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
