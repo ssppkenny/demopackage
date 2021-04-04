@@ -2,7 +2,7 @@
 #'
 #' @return string "demo_function"
 #' @examples
-#' demo()
+#' demo_function()
 #' @export
 demo_function <- function() {
   "demo_function"

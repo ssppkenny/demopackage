@@ -13,5 +13,5 @@ string "demo_function"
 Provides a demo_function string
 }
 \examples{
-demo()
+demo_function()
 }
