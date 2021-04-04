@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "sergey.mikhno@gmail.com",
            comment = "Just a demo package")
-Description: What the package does (one paragraph).
+Description: This package provides a demo function.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
